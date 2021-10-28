@@ -1,0 +1,70 @@
+[
+  {
+    "nombreChat": "#chat",
+    "mensajes": [
+      {
+        "texto": "Hola mundo!",
+        "usuario": "Adrian",
+        "fecha": "2021-10-24T20:20:24.409Z"
+      },
+      {
+        "texto": "Adios mundo :(",
+        "usuario": "Jose",
+        "fecha": "2021-10-24T20:20:28.924Z"
+      },
+      {
+        "texto": "AAAAAA nooooo",
+        "usuario": "Adrian",
+        "fecha": "2021-10-24T20:20:59.224Z"
+      },{
+        "texto": "Y debido al aumento de la iniquidad, el amor de muchos se enfriará. La desolación se extiende por todo el mundo religioso. La predicación de los pastores y ancianos repite tópicos hasta la saciedad y no provee a los creyentes. En su lucha por el estatus, algunos pastores forman grupúsculos y facciones en las iglesias, y algunos hasta han hecho negocios poniendo en marcha fábricas para llevar a los creyentes por el camino secular; entre los creyentes, mientras tanto, la confianza está en general debilitada, hay renuencia a separarse del mundo y viven inmersos en sus tediosas intrigas. Algunas iglesias parecen concurridas y animadas desde fuera, pero mucha gente va a la iglesia solo para ampliar su red y vender productos: la iglesia como lugar de comercio. ¿Cuál es la diferencia entre una iglesia de hoy en día y un templo de finales de la Era de la Ley? Estas cosas dejan patente el pleno cumplimiento de esta profecía del regreso del Señor.",
+        "usuario": "Mateo",
+        "fecha": "2021-10-24T20:20:59.224Z"
+      }
+    ]
+  },
+  {
+    "nombreChat": "#chat-chido",
+    "mensajes": [
+      {
+        "texto": "Hola mundo!",
+        "usuario": "Adrian",
+        "fecha": "2021-10-24T20:20:24.409Z"
+      }
+    ]
+  },
+  {
+    "nombreChat": "#chat-NSFW",
+    "mensajes": [{
+      "texto": [
+        "\n⠄⠄⠄⢰⣧⣼⣯⠄⣸⣠⣶⣶⣦⣾⠄⠄⠄⠄⡀⠄⢀⣿⣿⠄⠄⠄⢸⡇⠄⠄\n⠄⠄⠄⣾⣿⠿⠿⠶⠿⢿⣿⣿⣿⣿⣦⣤⣄⢀⡅⢠⣾⣛⡉⠄⠄⠄⠸⢀⣿⠄\n⠄⠄⢀⡋⣡⣴⣶⣶⡀⠄⠄⠙⢿⣿⣿⣿⣿⣿⣴⣿⣿⣿⢃⣤⣄⣀⣥⣿⣿⠄\n⠄⠄⢸⣇⠻⣿⣿⣿⣧⣀⢀⣠⡌⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠿⣿⣿⣿⠄\n⠄⢀⢸⣿⣷⣤⣤⣤⣬⣙⣛⢿⣿⣿⣿⣿⣿⣿⡿⣿⣿⡍⠄⠄⢀⣤⣄⠉⠋⣰ \n⠄⣼⣖⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⢇⣿⣿⡷⠶⠶⢿⣿⣿⠇⢀⣤\n⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣽⣿⣿⣿⡇⣿⣿⣿⣿⣿⣿⣷⣶⣥⣴⣿⡗\n⢀⠈⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠄\n⢸⣿⣦⣌⣛⣻⣿⣿⣧⠙⠛⠛⡭⠅⠒⠦⠭⣭⡻⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠄\n⠘⣿⣿⣿⣿⣿⣿⣿⣿⡆⠄⠄⠄⠄⠄⠄⠄⠄⠹⠈⢋⣽⣿⣿⣿⣿⣵⣾⠃⠄\n⠄⠘⣿⣿⣿⣿⣿⣿⣿⣿⠄⣴⣿⣶⣄⠄⣴⣶⠄⢀⣾⣿⣿⣿⣿⣿⣿⠃⠄⠄\n⠄⠄⠈⠻⣿⣿⣿⣿⣿⣿⡄⢻⣿⣿⣿⠄⣿⣿⡀⣾⣿⣿⣿⣿⣛⠛⠁⠄⠄⠄\n⠄⠄⠄⠄⠈⠛⢿⣿⣿⣿⠁⠞⢿⣿⣿⡄⢿⣿⡇⣸⣿⣿⠿⠛⠁⠄⠄⠄⠄⠄\n⠄⠄⠄⠄⠄⠄⠄⠉⠻⣿⣿⣾⣦⡙⠻⣷⣾⣿⠃⠿⠋⠁⠄⠄⠄⠄⠄⢀⣠⣴\n⣿⣿⣿⣶⣶⣮⣥⣒⠲⢮⣝⡿⣿⣿⡆⣿⡿⠃⠄⠄⠄⠄⠄⠄⠄⣠⣴⣿⣿⣿\n"],
+      "usuario": "HENTAI-MASTER_1000",
+      "fecha" : "2021-10-24T20:20:24.409Z"
+    },{
+      "texto": "NOOOOO, no funciono este chat es una mierda",
+      "usuario": "HENTAI-MASTER_1000",
+      "fecha" : "2021-10-24T20:20:24.409Z"
+    },{
+      "texto": "Ahhhh prro, si reduces la pantalla si",
+      "usuario": "HENTAI-MASTER_1000",
+      "fecha" : "2021-10-24T20:20:24.409Z"
+    },{
+      "texto": "Ahora usa la etiqueta pre y si va 😎",
+      "usuario": "HENTAI-MASTER_1000",
+      "fecha" : "2021-10-24T20:20:24.409Z"
+    }
+    ]
+  },
+  {
+    "nombreChat": "#TO-DO",
+    "mensajes": [{
+      "texto": "Texto multilinea",
+      "usuario": "Adrian del pasado",
+      "fecha" : "2021-10-24T20:20:24.409Z"
+    },{
+      "texto": "Arreglar botones cerrado css chiquito",
+      "usuario": "Adrian del pasado",
+      "fecha" : "2021-10-24T20:20:24.409Z"
+    }]
+  }
+]

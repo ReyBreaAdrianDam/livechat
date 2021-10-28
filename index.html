@@ -1,0 +1,57 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+
+
+  <meta charset="utf-8">
+  <title>Chat</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta property="og:title" content="">
+  <meta property="og:type" content="">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
+
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" href="icon.png">
+  <!-- Place favicon.ico in the root directory -->
+
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/stylesheet.css">
+
+  <meta name="theme-color" content="#fafafa">
+</head>
+
+<body>
+<header>
+  <button id="mostrar_chat" onclick="mostrarChats()">Mostrar chats</button>
+  <span id="chat_seleccionado"></span></header>
+<button id="mostrar_usuarios" onclick="mostrarUsuarios()">Mostrar usuarios</button>
+<nav id="chats">
+  <p class = "titulo_pestana">CHATS<button id = "cerrar_pestana_chats" class = "cerrar_pestana" onclick="cerrarChats()"></button></p>
+  <ul id=listado_chats>
+  </ul>
+</nav>
+<div id="mensajes"></div>
+<div id="usuarios">
+  <p class = "titulo_pestana">USUARIOS<button id = "cerrar_pestana_usuarios" class = "cerrar_pestana" onclick="cerrarUsuarios()"></button></p>
+  <ul id=listado_usuarios>
+
+  </ul>
+</div>
+<!-- Add your site or application content here -->
+<script src="js/vendor/modernizr-3.11.2.min.js"></script>
+<script src="js/plugins.js"></script>
+<script src="js/main.js"></script>
+
+<footer>
+  <textarea rows="1" cols="1" id="texto" placeholder="Mensaje:"></textarea>
+  <button id="enviar" name="enviar"
+          onclick="enviarMensaje(user,document.getElementById('texto').value);">&nbsp;
+  </button>
+
+</footer>
+</body>
+</html>
