@@ -224,6 +224,7 @@ function leerJSONMensajes() {
 
 function leerJSONUsuarios() {
   usuarios = []
+  usuarios.push(new Usuario(user, true))
   let url = "./js/usuarios.json";
   let jsonFile = new XMLHttpRequest();
   jsonFile.open("GET", url, true);
@@ -255,7 +256,7 @@ leerJSONUsuarios()
 /*
  *Estas dos lineas de abajo llaman a los metodos de leer JSON
  */
-setInterval(leerJSONUsuarios, 1000);
+//setInterval(leerJSONUsuarios, 1000);
 //setInterval(leerJSONMensajes, 1000);
 
 
